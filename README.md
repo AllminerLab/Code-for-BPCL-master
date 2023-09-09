@@ -1,6 +1,5 @@
 
-## The implementation of BPCL in the "[Basket Booster for Prototype-based Contrastive Learning in Next Basket Recommendation]" paper (ECML PKDD'22)
-
+## Some tips:
 
 1. Input format:
 
@@ -21,3 +20,7 @@
 
 ## Statement 
 The code is modified based on the code of Beacon.
+
+Reference:
+
+Ting-Ting Su, Zhen-Yu He, Man-Sheng Chen and Chang-Dong Wang. "Basket Booster for Prototype-based Contrastive Learning in Next Basket Recommendation", ECML PKDD2022
